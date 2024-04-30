@@ -1,2 +1,3 @@
-# women-s-club
-COS3015 Software Engineering Final Project
+To run the front-end of the application, simply use
+
+`npm i && npm run dev`
